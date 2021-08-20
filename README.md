@@ -1,13 +1,9 @@
-# Growtopia Ad blocker
+# Growtopia ADblocker
 Growtopia Ad blocker for disabling ads in weather background (billboards, airplanes) and in ad blocks.
 
-## Alternative repo
-https://github.com/selenmunu/GTAdblock
 
 ## How to use/install
-1. Download release [here](https://github.com/ama6nen/GTAdblock/releases/tag/V1)
-2. Replace existing SecureEngineSDK64.dll in Growtopia directory with the downloaded one
-3. Done
+1. Replace existing SecureEngineSDK64.dll in Growtopia directory with the downloaded one
 
 ## Features
 * Disables airplanes and billboards in the default sunny weather background in all worlds
